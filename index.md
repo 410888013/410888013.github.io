@@ -1,8 +1,6 @@
 # 葉昱廷的部落格
 
-You can use the [editor on GitHub](https://github.com/410888013/410888013.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 初級程式設計-Scratch與Python期中考
 
 ### 基本資料
 
@@ -13,28 +11,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </ul>
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![avatar](https://i.imgur.com/SNReQua.jpg)
+不知道放什麼就放吉娃娃ㄌ！
+可愛叭
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 興趣愛好
+<ol>
+    <li>睡覺</li>
+    <li>吃好吃ㄉ</li>
+    <li>追劇</li>
+    <li>打羽球</li>
+</ol>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/410888013/410888013.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 相關連結
 我的facebook:https://www.facebook.com/yutingggggggg
